@@ -1,5 +1,6 @@
 {
     "name": "Schere, Stein, Papier gegen PC",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
